@@ -1,19 +1,33 @@
 html {
-    background: linear-gradient(177.52deg, #4574E3 2.11%, #154580 81.34%);
+    background: linear-gradient(177.52deg, #539165 2.11%, #285430 81.34%);
     background-repeat: no-repeat;
     height: 100%;
 }
 
 body {
-    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+    font-family: 'Josefin Sans', sans-serif, cursive;
 }
 
 h2, footer {
-    font-family: 'Mansalva';
+    font-family: 'Josefin Sans';
 }
 
 button {
     border: none;
+    background-color: #F7A4A4; 
+    border-radius: 12px;
+    padding: 10px;
+    color: #285430;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ecbfbf;
+}
+
+.input {
+    border:none;
 }
 
 .itens-comprados {
@@ -21,7 +35,7 @@ text-decoration: line-through;
 }
 
 .borda-lista {
-    border-bottom: dotted 2px blue;
+    border-bottom: dotted 2px #F7A4A4;
 }
 
 input:disabled {
