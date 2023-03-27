@@ -1,17 +1,8 @@
-# Nome do meu projeto
+# Projeto Lista De Compras
 
-Rápida descrição do objetivo de fazer esse projeto
+Nesse projeto, desenvolvi um aplicação na qual é possível adicionar, remover e editar itens em uma lista.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+![1](https://user-images.githubusercontent.com/95857175/228031394-e7d9d55a-e4a7-48c7-ba50-c97c095df503.png#vitrinedev)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![2](https://user-images.githubusercontent.com/95857175/228031401-515e2c57-c4d4-4ec5-ad34-fa79f1109c35.png#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
