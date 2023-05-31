@@ -2,7 +2,7 @@
 
 Nesse projeto, desenvolvi um aplicação na qual é possível adicionar, remover e editar itens em uma lista.
 
-Você pode acessar o projeto em: https://querenhapuquerocha.github.io/projetoListaDeCompras/
+Você pode acessar o projeto em: https://querenfernandes.github.io/projetoListaDeCompras/
 
 ![1](https://user-images.githubusercontent.com/95857175/228031394-e7d9d55a-e4a7-48c7-ba50-c97c095df503.png#vitrinedev)
 
